@@ -23,7 +23,7 @@ This project is licensed under the GNU General Public License v3.0 - see the LIC
 
 ## Acknowledgments
 
-* [Neurosky sdk](https://github.com/matiassingers/awesome-readme)
+* [Neurosky sdk](https://github.com/pwittchen/neurosky-android-sdk)
 * [Graphview](https://github.com/jjoe64/GraphView)
 ## Pictures
 <img src="images/received_197762648908800.webp" width="300"> <img src="images/received_3035351316734803.webp" width="300">
